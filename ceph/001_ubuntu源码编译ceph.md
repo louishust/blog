@@ -6,10 +6,8 @@
 
 ### 编译DEBUG
 > shell> ./autogen.sh
-
-> shell> CXXFLAGS="-g -pg" ./configure --without-tcmalloc
-
-> shell> make
+shell> CXXFLAGS="-g -pg" ./configure --without-tcmalloc
+shell> make
 
 ### 常见问题
  - g++: internal compiler error: Killed (program cc1plus)
