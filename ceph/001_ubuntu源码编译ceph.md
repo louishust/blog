@@ -13,6 +13,7 @@
 
 ### 常见问题
  - g++: internal compiler error: Killed (program cc1plus)
+
 > Code:
 
 >sudo dd if=/dev/zero of=/swapfile bs=64M count=16
