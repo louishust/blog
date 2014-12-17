@@ -6,9 +6,7 @@
 
 ### 编译DEBUG
 > shell> ./autogen.sh
-
 > shell> CXXFLAGS="-g -pg" ./configure --without-tcmalloc
-
 > shell> make
 
 ### 常见问题
