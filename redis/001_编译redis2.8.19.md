@@ -1,4 +1,4 @@
-# 编译ceph源码
+# Ubuntu下编译redis源码DEBUG版
 
 ---
 ### 下载源码
