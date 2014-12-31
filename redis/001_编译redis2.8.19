@@ -13,7 +13,7 @@ git checkout 2.8.19 2.8.19
 ```
 make distclean
 make dep
-make DEBUG=-g OPT=-O0
+make noopt DEBUG=-g OPT=-O0
 ```
 
 ### 单元测试
